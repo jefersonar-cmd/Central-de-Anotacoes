@@ -1,2 +1,2 @@
 # Central-de-Anotacoes
-Projeto feito em PHP POO, PDO, com padrão MVC.
+Projeto feito em PHP POO, PDO, utilizando o gerenciado de pacotes Compuser e implementado padrão MVC.
